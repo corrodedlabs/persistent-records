@@ -1,0 +1,8 @@
+* persistent records
+
+records backed by hamts.
+
+* known bug:
+
+modify pfds/private/alists.sls to be import the correct version of srfi-1
+thunderchez provides one

@@ -1,0 +1,6 @@
+[submodule "pfds"]
+	path = pfds
+	url = https://github.com/ijp/pfds
+[submodule "thunderchez"]
+	path = thunderchez
+	url = https://github.com/ovenpasta/thunderchez
